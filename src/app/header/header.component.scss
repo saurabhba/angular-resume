@@ -1,0 +1,31 @@
+.name {
+  font-weight: 400;
+  font-family: "Chivo", Arial, Helvetica, "Noto Sans Devanagari",
+    "Noto Sans CJK SC Thin", "Noto Sans SC", "Noto Sans Hebrew", sans-serif !important;
+  color: #474eac;
+  font-size: 34px;
+  line-height: 1.35;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.title {
+  color: #ff8490;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", Arial, Helvetica, "Noto Sans Devanagari",
+    "Noto Sans CJK SC Thin", "Noto Sans SC", "Noto Sans Hebrew", sans-serif !important;
+  margin-bottom: 20px;
+}
+
+.field {
+  font-family: "Chivo";
+  i {
+    color: #b9b9b9;
+    margin-right: 3px;
+  }
+  span {
+    color: #384347;
+    margin-left: 1px;
+  }
+}
