@@ -1,0 +1,15 @@
+.text {
+  color: #65696d;
+  line-height: 1.35;
+  white-space: pre-wrap;
+  font-size: 15px;
+  margin-top: 10px;
+  font-family: Roboto;
+  letter-spacing: 0.05em;
+}
+
+@media print {
+  a {
+    text-decoration: none;
+  }
+}

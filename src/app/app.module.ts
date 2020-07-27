@@ -7,6 +7,13 @@ import { FrontendComponent } from './technologies/frontend/frontend.component';
 import { BackendComponent } from './technologies/backend/backend.component';
 import { DatabasesComponent } from './technologies/databases/databases.component';
 import { ToolsComponent } from './technologies/tools/tools.component';
+import { HmComponent } from './experience/hm/hm.component';
+import { AdtooxComponent } from './experience/adtoox/adtoox.component';
+import { SummaryComponent } from './summary/summary.component';
+import { ServersComponent } from './technologies/servers/servers.component';
+import { TechniaComponent } from './experience/technia/technia.component';
+import { CumminsComponent } from './experience/cummins/cummins.component';
+import { GeometricComponent } from './experience/geometric/geometric.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +22,14 @@ import { ToolsComponent } from './technologies/tools/tools.component';
     FrontendComponent,
     BackendComponent,
     DatabasesComponent,
-    ToolsComponent
+    ToolsComponent,
+    HmComponent,
+    AdtooxComponent,
+    SummaryComponent,
+    ServersComponent,
+    TechniaComponent,
+    CumminsComponent,
+    GeometricComponent
   ],
   imports: [
     BrowserModule
